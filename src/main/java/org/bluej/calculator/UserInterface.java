@@ -23,6 +23,7 @@ public class UserInterface
 
     /**
      * Create a user interface.
+     * s
      * @param engine The calculator engine.
      */
     public UserInterface(CalcEngine engine)
