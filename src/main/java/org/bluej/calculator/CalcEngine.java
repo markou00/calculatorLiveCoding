@@ -2,7 +2,7 @@ package org.bluej.calculator;
 
 /**
  * The main part of the calculator doing the calculations.
- * 
+ * chan
  * @author: (none yet)
  * @version 0.1 (incomplete)
  */
